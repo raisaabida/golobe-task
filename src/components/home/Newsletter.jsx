@@ -2,14 +2,14 @@ export default function Newsletter() {
   return (
     <section className="relative pt-24">
 
-      {/* Top Light Area */}
+      
       <div className="bg-[#F3F3F3] h-40 w-full absolute top-0 left-0"></div>
 
-      {/* Green Background */}
+      
       <div className="bg-[#7DB9A6] pt-40">
         <div className="max-w-7xl mx-auto px-6 relative">
 
-          {/* Floating Card */}
+          
           <div className="bg-[#CFE7DF] rounded-3xl p-10 md:p-16 flex flex-col lg:flex-row justify-between items-center shadow-lg -mt-40 relative z-10">
             
             <div className="max-w-xl">
