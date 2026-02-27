@@ -37,7 +37,7 @@ export default function Newsletter() {
               </div>
             </div>
 
-            {/* Decorative Shape */}
+            
             <div className="hidden lg:block relative w-80 h-48 mt-10 lg:mt-0">
               <div className="absolute right-0 top-0 w-56 h-48 bg-[#0F2D1E] rounded-r-[80px]" />
               <div className="absolute right-24 top-4 w-40 h-40 bg-[#5F7570] rounded-[60px]" />
