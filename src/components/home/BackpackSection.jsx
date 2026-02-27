@@ -53,7 +53,7 @@ export default function BackpackSection() {
             </button>
           </div>
 
-          {/* Image Grid */}
+          
           <div className="grid grid-cols-2 gap-8 lg:col-span-2">
             <img
               src="/images/sri1.jpg.png"
