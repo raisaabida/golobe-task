@@ -16,7 +16,7 @@ export default function TravelCard({ image, city, subtitle, price }) {
           <span className="text-xl font-semibold">{price}</span>
         </div>
 
-        {/* Subtitle */}
+        
         <p className="text-sm text-gray-200 mb-4">{subtitle}</p>
 
         {/* Button */}
