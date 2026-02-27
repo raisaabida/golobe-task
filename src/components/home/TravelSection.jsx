@@ -36,7 +36,7 @@ export default function TravelSection() {
     <section className="bg-[#f3f3f3] py-20">
       <div className="max-w-7xl mx-auto px-6 lg:px-16">
 
-        {/* Header */}
+        
         <div className="flex justify-between items-start mb-12">
           <div>
             <h2 className="text-4xl font-semibold">
@@ -52,7 +52,7 @@ export default function TravelSection() {
           </button>
         </div>
 
-        {/* Cards */}
+        
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {places.map((place, i) => (
             <TravelCard key={i} {...place} />
